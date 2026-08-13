@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI 生活 Plog"
+  short_description: "把普通生活随手拍改造成真实克制的 3:4 Plog"
+  default_prompt: "用 $ai-life-plog 把我上传的照片改造成生活化 Plog。"
+
+policy:
+  allow_implicit_invocation: true
